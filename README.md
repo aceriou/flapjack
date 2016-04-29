@@ -25,6 +25,8 @@ Run and enjoy, but first, read the Configuration instructions below.
 node listen.js
 ```
 
+Please be aware, it can take a few moments before the bot connects to the IRC server and channel.
+
 # Configuration
 At the top of listen.js, there is a list of variables to edit so you can make this bot work for you. By default, this bot will listen to a channel, and then log everything to a .log file.
 It also has two commands by default, as examples. 
