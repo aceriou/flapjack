@@ -1,6 +1,8 @@
 # flapjack
 An expandable IRC bot for NodeJS.
 
+This is a basic working setup for creating IRC bots that can log, process commands, and more. This is highly expandable, so feel free to use this however you like.
+
 # Setting up
 Setting up instructions were made for Ubuntu 16.04, but can easily be converted to other versions, or distros.
 
