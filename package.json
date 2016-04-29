@@ -1,0 +1,12 @@
+{
+  "name": "flapjack",
+  "version": "1.0.0",
+  "description": "A simple IRC logger with commands",
+  "main": "listen.js",
+  "scripts": {
+  	"test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "Preston Cammarata",
+  "license": "MIT"
+}
