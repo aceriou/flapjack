@@ -45,5 +45,5 @@ client.addListener ( 'message', function ( from, to, message ) {
 });
 
 client.addListener ( 'error', function ( message ) {
-    console.log ( 'error: ', message );
+    console.log ( '[error] ' + message );
 });
