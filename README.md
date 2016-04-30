@@ -47,5 +47,10 @@ flapjack_bot: im twerking rn
 
 Of course, below the line that reads "// Custom Commands" you can make your own commands, or remove it entirely, those are just examples to get you started.
 
+# How do I expand upon the IRC workings?
+All documentation for the IRC functions are located at the modules website.
+
+https://node-irc.readthedocs.io/en/latest/
+
 # License
 DO WHAT THE FUCK YOU WANT!
